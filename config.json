@@ -14,9 +14,9 @@
         "about_text" : "Hii, I am Rahul Sangwan an ethical hacker. I am an information security expert who systematically attempts to penetrate a computer system, network, application or other computing resource on behalf of its owners -- and with their permission -- to find security vulnerabilities that a malicious hacker could attack over and get the confidential data for wrong doing. I also teach the students to be an ethical hacker.If you want to learn ethical hacking you can contact me through contact provided at the same website you are at. I will definitely reply you.",
         "no_of_posts" : 2,
         "login_img" : "login.svg",
-        "admin_usrname" : "rahul sangwan",
-        "admin_password" : "7015515973",
-        "upload_location" : "C://Users//Rahul Sangwan//OneDrive//Desktop//website designing using flask//static"
+        "admin_usrname" : "username",
+        "admin_password" : "password",
+        "upload_location" : "location of static folder"
     }
     
 
